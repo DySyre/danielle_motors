@@ -1,0 +1,372 @@
+[
+    {
+      "quantity": "100",
+      "description": "JOINT INJECTOR BEAT FI",
+      "details": "insert",
+      "SRP": 119.00,
+      "discounted_price": 59.50,
+      "discount": "50%",
+      "total": 5950.00
+    },
+    {
+      "quantity": "20",
+      "description": "CAM SPROCKET CT100/BAJAJ 28T-S",
+      "details": "f19",
+      "SRP": 109.80,
+      "discounted_price": 54.90,
+      "discount": "50%",
+      "total": 1098.00
+    },
+    {
+      "quantity": "50",
+      "description": "OIL PUMP MIO-S",
+      "details": "#20",
+      "SRP": 360.00,
+      "discounted_price": 180.00,
+      "discount": "50%",
+      "total": 9000.00
+    },
+    {
+      "quantity": "50",
+      "description": "SIDE MIRROR CLAMP XRM 6MM-M",
+      "details": "#20",
+      "SRP": 88.00,
+      "discounted_price": 44.00,
+      "discount": "50%",
+      "total": 2200.00
+    },
+    {
+      "quantity": "100",
+      "description": "SIDE MIRROR CLAMP MIO LH BIG SILVER-M",
+      "details": "#21",
+      "SRP": 110.00,
+      "discounted_price": 55.00,
+      "discount": "50%",
+      "total": 5500.00
+    },
+    {
+      "quantity": "100",
+      "description": "SIDE MIRROR CLAMP MIO SMALL SILVER-S",
+      "details": "",
+      "SRP": 50.00,
+      "discounted_price": 25.00,
+      "discount": "50%",
+      "total": 2500.00
+    },
+    {
+      "quantity": "100",
+      "description": "SIDE MIRROR CLAMP MIO SMALL BLACK-S",
+      "details": "#28",
+      "SRP": 50.00,
+      "discounted_price": 25.00,
+      "discount": "50%",
+      "total": 2500.00
+    },
+    {
+      "quantity": "10",
+      "description": "SIDE MIRROR CLAMP R150-M",
+      "details": "#46",
+      "SRP": 132.00,
+      "discounted_price": 66.00,
+      "discount": "50%",
+      "total": 3300.00
+    },
+    {
+      "quantity": "100",
+      "description": "SIDE MIRROR CLAMP UNIVERSAL 8MM SILVER",
+      "details": "#23",
+      "SRP": 64.00,
+      "discounted_price": 32.00,
+      "discount": "50%",
+      "total": 3200.00
+    },
+    {
+      "quantity": "10",
+      "description": "SIDE MIRROR CLAMP UNIVERSAL 10MM SILVER",
+      "details": "",
+      "SRP": 82.00,
+      "discounted_price": 41.00,
+      "discount": "50%",
+      "total": 4100.00
+    },
+    {
+      "quantity": "100",
+      "description": "FUEL COCK TMX155/RUSI-M",
+      "details": "#21",
+      "SRP": 130.00,
+      "discounted_price": 65.00,
+      "discount": "50%",
+      "total": 6500.00
+    },
+    {
+      "quantity": "20",
+      "description": "PRIMARY COIL TMX-S",
+      "details": "",
+      "SRP": 162.00,
+      "discounted_price": 81.00,
+      "discount": "50%",
+      "total": 1620.00
+    },
+    {
+      "quantity": "20",
+      "description": "PRIMARY COIL CT100 W/ WIRE-S",
+      "details": "",
+      "SRP": 130.00,
+      "discounted_price": 65.00,
+      "discount": "50%",
+      "total": 1300.00
+    },
+    {
+      "quantity": "20",
+      "description": "PRIMARY COIL C100-S",
+      "details": "",
+      "SRP": 120.00,
+      "discounted_price": 60.00,
+      "discount": "50%",
+      "total": 1200.00
+    },
+    {
+      "quantity": "50",
+      "description": "DUO CAP XRM/CG125-S",
+      "details": "#26",
+      "SRP": 60.00,
+      "discounted_price": 30.00,
+      "discount": "50%",
+      "total": 3000.00
+    },
+    {
+      "quantity": "50",
+      "description": "DUO CAP XRM/CG125-S",
+      "details": "",
+      "SRP": 60.00,
+      "discounted_price": 30.00,
+      "discount": "50%",
+      "total": 2000.00
+    },
+    {
+      "quantity": "20",
+      "description": "DUO CAP YAMAHA/FZ16-S",
+      "details": "",
+      "SRP": 90.00,
+      "discounted_price": 45.00,
+      "discount": "50%",
+      "total": 1500.00
+    },
+    {
+      "quantity": "100",
+      "description": "VINDEX REPAIR KIT TMX/CG125-S",
+      "details": "",
+      "SRP": 55.00,
+      "discounted_price": 27.50,
+      "discount": "50%",
+      "total": 2750.00
+    },
+    {
+      "quantity": "100",
+      "description": "VINDEX REPAIR KIT W125-S",
+      "details": "",
+      "SRP": 60.00,
+      "discounted_price": 30.00,
+      "discount": "50%",
+      "total": 3000.00
+    },
+    {
+      "quantity": "100",
+      "description": "VINDEX REPAIR KIT C100-S",
+      "details": "",
+      "SRP": 50.00,
+      "discounted_price": 25.00,
+      "discount": "50%",
+      "total": 2500.00
+    },
+    {
+      "quantity": "100",
+      "description": "VINDEX REPAIR KIT GY6/125-S",
+      "details": "#26",
+      "SRP": 55.00,
+      "discounted_price": 27.50,
+      "discount": "50%",
+      "total": 3000.00
+    },
+    {
+      "quantity": "100",
+      "description": "VINDEX REPAIR KIT TMX/CG125-S",
+      "details": "",
+      "SRP": 55.00,
+      "discounted_price": 27.50,
+      "discount": "50%",
+      "total": 2750.00
+    },
+    {
+      "quantity": "10",
+      "description": "VINDEX REPAIR KIT LF150/LF125-S",
+      "details": "#26",
+      "SRP": 55.00,
+      "discounted_price": 27.50,
+      "discount": "50%",
+      "total": 375.00
+    },
+    {
+      "quantity": "100",
+      "description": "MANIFOLD XRM W/ RUBBER 24MM-M",
+      "details": "#21",
+      "SRP": 190.00,
+      "discounted_price": 95.00,
+      "discount": "50%",
+      "total": 9500.00
+    },
+    {
+      "quantity": "100",
+      "description": "MANIFOLD ORDINARY 28MM-S",
+      "details": "#28",
+      "SRP": 90.00,
+      "discounted_price": 45.00,
+      "discount": "50%",
+      "total": 4500.00
+    },
+    {
+      "quantity": "100",
+      "description": "MANIFOLD ORDINARY 30MM",
+      "details": "#29",
+      "SRP": 90.00,
+      "discounted_price": 45.00,
+      "discount": "50%",
+      "total": 5400.00
+    },
+    {
+      "quantity": "100",
+      "description": "MANIFOLD TMX W/ RUBBER-M",
+      "details": "#30",
+      "SRP": 90.00,
+      "discounted_price": 45.00,
+      "discount": "50%",
+      "total": 4500.00
+    },
+    {
+      "quantity": "100",
+      "description": "MANIFOLD MIO-M",
+      "details": "#23",
+      "SRP": 216.00,
+      "discounted_price": 108.00,
+      "discount": "50%",
+      "total": 13000.00
+    },
+    {
+      "quantity": "100",
+      "description": "MANIFOLD 28MM RED-S",
+      "details": "#32",
+      "SRP": 100.00,
+      "discounted_price": 50.00,
+      "discount": "50%",
+      "total": 4500.00
+    },
+    {
+      "quantity": "200",
+      "description": "MANIFOLD 28MM BLUE-S",
+      "details": "#35",
+      "SRP": 100.00,
+      "discounted_price": 50.00,
+      "discount": "50%",
+      "total": 20000.00
+    },
+    {
+      "quantity": "200",
+      "description": "MANIFOLD 24MM ORANGE-S",
+      "details": "",
+      "SRP": 100.00,
+      "discounted_price": 50.00,
+      "discount": "50%",
+      "total": 9000.00
+    },
+    {
+      "quantity": "200",
+      "description": "COIL SQ SOUL/MIO AMORE (8pin)-M",
+      "details": "#26",
+      "SRP": 442.00,
+      "discounted_price": 221.00,
+      "discount": "50%",
+      "total": 10000.00
+    },
+    {
+      "quantity": "20",
+      "description": "CDI CB125 (4pin)-S",
+      "details": "#7",
+      "SRP": 556.00,
+      "discounted_price": 278.00,
+      "discount": "50%",
+      "total": 8840.00
+    },
+    {
+      "quantity": "40",
+      "description": "MANIFOLD UNIVERSAL-M",
+      "details": "#28",
+      "SRP": 210.00,
+      "discounted_price": 105.00,
+      "discount": "50%",
+      "total": 11040.00
+    },
+    {
+      "quantity": "20",
+      "description": "STARTER RELAY GY6/RUSI 150-S",
+      "details": "#29",
+      "SRP": 170.00,
+      "discounted_price": 85.00,
+      "discount": "50%",
+      "total": 5400.00
+    },
+    {
+      "quantity": "30",
+      "description": "BRAKE PANEL SCREW XRM-S",
+      "details": "#40",
+      "SRP": 46.00,
+      "discounted_price": 23.00,
+      "discount": "50%",
+      "total": 5100.00
+    },
+    {
+      "quantity": "50",
+      "description": "BRAKE PANEL SCREW TMX-S",
+      "details": "#49",
+      "SRP": 46.00,
+      "discounted_price": 23.00,
+      "discount": "50%",
+      "total": 4600.00
+    },
+    {
+      "quantity": "50",
+      "description": "DRAIN PLUG MIO/BAJAJ-S",
+      "details": "",
+      "SRP": 77.00,
+      "discounted_price": 38.50,
+      "discount": "50%",
+      "total": 1150.00
+    },
+    {
+      "quantity": "20",
+      "description": "CLUTCH RELEASE XRM SMALL-S",
+      "details": "#43",
+      "SRP": 80.00,
+      "discounted_price": 40.00,
+      "discount": "50%",
+      "total": 1740.00
+    },
+    {
+      "quantity": "50",
+      "description": "CLUTCH RELEASE XRM BIG-S",
+      "details": "",
+      "SRP": 80.00,
+      "discounted_price": 40.00,
+      "discount": "50%",
+      "total": 2000.00
+    },
+    {
+      "quantity": "50",
+      "description": "CONTACT POINT FOR STATOR MIO-S",
+      "details": "#45",
+      "SRP": 130.00,
+      "discounted_price": 65.00,
+      "discount": "50%",
+      "total": 2000.00
+    }
+  ]
+  

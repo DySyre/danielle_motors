@@ -1,0 +1,308 @@
+[
+  {
+    "id": 1,
+    "quantity": "20",
+    "description": "OVERHAULING GASKET W125",
+    "SRP": 63.00,
+    "discounted_price": 31.50,
+    "disc": "50%",
+    "amount": 630.00
+  },
+  {
+    "id": 2,
+    "quantity": "20",
+    "description": "OVERHAULING GASKET TMX155/TMX CDI",
+    "SRP": 88.00,
+    "discounted_price": 44.00,
+    "disc": "50%",
+    "amount": 880.00
+  },
+  {
+    "id": 3,
+    "quantity": "20",
+    "description": "OVERHAULING GASKET TMX SUPREMO",
+    "SRP": 82.00,
+    "discounted_price": 41.00,
+    "disc": "50%",
+    "amount": 820.00
+  },
+  {
+    "id": 4,
+    "quantity": "20",
+    "description": "OVERHAULING GASKET LF150",
+    "SRP": 88.00,
+    "discounted_price": 44.00,
+    "disc": "50%",
+    "amount": 880.00
+  },
+  {
+    "id": 5,
+    "quantity": "20",
+    "description": "OVERHAULING GASKET LF125",
+    "SRP": 66.00,
+    "discounted_price": 33.00,
+    "disc": "50%",
+    "amount": 660.00
+  },
+  {
+    "id": 6,
+    "quantity": "20",
+    "description": "OVERHAULING GASKET DREAM/C100",
+    "SRP": 87.00,
+    "discounted_price": 43.50,
+    "disc": "50%",
+    "amount": 870.00
+  },
+  {
+    "id": 7,
+    "quantity": "20",
+    "description": "OVERHAULING GASKET CB125",
+    "SRP": 75.00,
+    "discounted_price": 37.50,
+    "disc": "50%",
+    "amount": 750.00
+  },
+  {
+    "id": 8,
+    "quantity": "20",
+    "description": "OVERHAULING GASKET CT100/BAJAJ",
+    "SRP": 88.00,
+    "discounted_price": 44.00,
+    "disc": "50%",
+    "amount": 880.00
+  },
+  {
+    "id": 9,
+    "quantity": "20",
+    "description": "SPROCKET BOLT SET XRM-S",
+    "SRP": 52.00,
+    "discounted_price": 26.00,
+    "disc": "50%",
+    "amount": 2600.00
+  },
+  {
+    "id": 10,
+    "quantity": "50",
+    "description": "BRAKE MASTER REPAIR KIT W125",
+    "SRP": 40.00,
+    "discounted_price": 20.00,
+    "disc": "50%",
+    "amount": 1000.00
+  },
+  {
+    "id": 11,
+    "quantity": "50",
+    "description": "BRAKE MASTER REPAIR KIT CT100",
+    "SRP": 51.00,
+    "discounted_price": 25.50,
+    "disc": "50%",
+    "amount": 1275.00
+  },
+  {
+    "id": 12,
+    "quantity": "50",
+    "description": "BRAKE MASTER REPAIR KIT CB110",
+    "SRP": 51.00,
+    "discounted_price": 25.50,
+    "disc": "50%",
+    "amount": 1275.00
+  },
+  {
+    "id": 13,
+    "quantity": "100",
+    "description": "BRAKE MASTER REPAIR KIT BEAT",
+    "SRP": 40.00,
+    "discounted_price": 20.00,
+    "disc": "50%",
+    "amount": 2000.00
+  },
+  {
+    "id": 14,
+    "quantity": "100",
+    "description": "BRAKE MASTER REPAIR KIT CLICK150",
+    "SRP": 40.00,
+    "discounted_price": 20.00,
+    "disc": "50%",
+    "amount": 2000.00
+  },
+  {
+    "id": 15,
+    "quantity": "200",
+    "description": "BRAKE ARM BARAKO REAR",
+    "SRP": 39.00,
+    "discounted_price": 19.50,
+    "disc": "50%",
+    "amount": 3900.00
+  },
+  {
+    "id": 16,
+    "quantity": "100",
+    "description": "BRAKE ARM RS100",
+    "SRP": 42.00,
+    "discounted_price": 21.00,
+    "disc": "50%",
+    "amount": 2100.00
+  },
+  {
+    "id": 17,
+    "quantity": "50",
+    "description": "THROTTLE CABLE FURY/FURY125",
+    "SRP": 43.00,
+    "discounted_price": 21.50,
+    "disc": "50%",
+    "amount": 1075.00
+  },
+  {
+    "id": 18,
+    "quantity": "20",
+    "description": "CARBURETOR ASSY W125/XRM125",
+    "SRP": 740.00,
+    "discounted_price": 370.00,
+    "disc": "50%",
+    "amount": 14800.00
+  },
+  {
+    "id": 19,
+    "quantity": "20",
+    "description": "CARBURETOR ASSY W125/XRM125",
+    "SRP": 740.00,
+    "discounted_price": 370.00,
+    "disc": "50%",
+    "amount": 3700.00
+  },
+  {
+    "id": 20,
+    "quantity": "100",
+    "description": "CHAIN ADJUSTER SNIPER150",
+    "SRP": 170.00,
+    "discounted_price": 85.00,
+    "disc": "50%",
+    "amount": 8500.00
+  },
+  {
+    "id": 21,
+    "quantity": "100",
+    "description": "CHAIN ADJUSTER CB125",
+    "SRP": 150.00,
+    "discounted_price": 75.00,
+    "disc": "50%",
+    "amount": 7500.00
+  },
+  {
+    "id": 22,
+    "quantity": "100",
+    "description": "CHAIN ADJUSTER C100 SMALL HOLE-S",
+    "SRP": 15.00,
+    "discounted_price": 7.50,
+    "disc": "50%",
+    "amount": 750.00
+  },
+  {
+    "id": 23,
+    "quantity": "100",
+    "description": "CHAIN ADJUSTER WAVE DASH/W110 SET",
+    "SRP": 41.00,
+    "discounted_price": 20.50,
+    "disc": "50%",
+    "amount": 2050.00
+  },
+  {
+    "id": 24,
+    "quantity": "100",
+    "description": "CHAIN ADJUSTER LF125",
+    "SRP": 41.00,
+    "discounted_price": 20.50,
+    "disc": "50%",
+    "amount": 2050.00
+  },
+  {
+    "id": 25,
+    "quantity": "50",
+    "description": "CHAIN ADJUSTER GD110",
+    "SRP": 74.00,
+    "discounted_price": 37.00,
+    "disc": "50%",
+    "amount": 1850.00
+  },
+  {
+    "id": 26,
+    "quantity": "100",
+    "description": "CHAIN ADJUSTER RAIDER110J",
+    "SRP": 41.00,
+    "discounted_price": 20.50,
+    "disc": "50%",
+    "amount": 2050.00
+  },
+  {
+    "id": 27,
+    "quantity": "100",
+    "description": "CHAIN ADJUSTER R150",
+    "SRP": 126.00,
+    "discounted_price": 63.00,
+    "disc": "50%",
+    "amount": 6300.00
+  },
+  {
+    "id": 28,
+    "quantity": "100",
+    "description": "CHAIN ADJUSTER FURY125",
+    "SRP": 41.00,
+    "discounted_price": 20.50,
+    "disc": "50%",
+    "amount": 2050.00
+  },
+  {
+    "id": 29,
+    "quantity": "50",
+    "description": "CHAIN ADJUSTER ROUSER135",
+    "SRP": 62.00,
+    "discounted_price": 31.00,
+    "disc": "50%",
+    "amount": 1550.00
+  },
+  {
+    "id": 30,
+    "quantity": "50",
+    "description": "CHAIN ADJUSTER SHOGUN",
+    "SRP": 100.00,
+    "discounted_price": 50.00,
+    "disc": "50%",
+    "amount": 1550.00
+  },
+  {
+    "id": 31,
+    "quantity": "50",
+    "description": "CHAIN ADJUSTER SNIPER135",
+    "SRP": 112.00,
+    "discounted_price": 56.00,
+    "disc": "50%",
+    "amount": 5600.00
+  },
+  {
+    "id": 32,
+    "quantity": "100",
+    "description": "CHAIN ADJUSTER RS100 SET",
+    "SRP": 66.00,
+    "discounted_price": 33.00,
+    "disc": "50%",
+    "amount": 3300.00
+  },
+  {
+    "id": 33,
+    "quantity": "55",
+    "description": "CHAIN ADJUSTER W125/XRM125 SET",
+    "SRP": 104.00,
+    "discounted_price": 52.00,
+    "disc": "50%",
+    "amount": 2860.00
+  },
+  {
+    "id": 34,
+    "quantity": "100",
+    "description": "CHAIN ADJUSTER XRM/C400 SET",
+    "SRP": 30.00,
+    "discounted_price": 15.00,
+    "disc": "50%",
+    "amount": 1500.00
+  }
+]

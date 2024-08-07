@@ -1,0 +1,218 @@
+[
+    {
+        "quantity": "100",
+        "description": "SPROCKET BOLT SET CB125-S",
+            "SRP": 80.00,
+            "discounted_price": 40.00,
+            "discount": "50%",
+            "total": 4000.00
+        
+    },
+    {
+        "quantity": "50",
+        "description": "SPROCKET BOLT SET FZ16-S",
+            "SRP": 86.00,
+            "discounted_price": 43.00,
+            "discount": "50%",
+            "total": 2150.00
+        
+    },
+    {
+        "quantity": "50",
+        "description": "SPROCKET BOLT SET SNIPER135-S1",
+            "SRP": 74.00,
+            "discounted_price": 37.00,
+            "discount": "50%",
+            "total": 3700.00
+        
+    },
+    {
+        "quantity": "100",
+        "description": "SPROCKET BOLT SET W110/WAVE125-S",
+            "SRP": 76.00,
+            "discounted_price": 38.00,
+            "discount": "50%",
+            "total": 3800.00
+        
+    },
+    {
+        "quantity": "50",
+        "description": "SPROCKET BOLT SET DASH-S",
+            "SRP": 90.00,
+            "discounted_price": 45.00,
+            "discount": "50%",
+            "total": 2000.00
+        
+    },
+    {
+        "quantity": "50",
+        "description": "YK BEARING 6304RS",
+            "SRP": 61.20,
+            "discounted_price": 30.60,
+            "discount": "50%",
+            "total": 1530.00
+        
+    },
+    {
+        "quantity": "50",
+        "description": "YK BEARING 6004RS",
+            "SRP": 38.04,
+            "discounted_price": 19.02,
+            "discount": "50%",
+            "total": 951.00
+        
+    },
+    {
+        "quantity": "50",
+        "description": "YK BEARING 6305RS",
+            "SRP": 85.80,
+            "discounted_price": 42.90,
+            "discount": "50%",
+            "total": 2145.00
+        
+    },
+    {
+        "quantity": "150",
+        "description": "BRAKE MASTER REPAIR KIT XRM",
+            "SRP": 40.00,
+            "discounted_price": 20.00,
+            "discount": "50%",
+            "total": 1000.00
+        
+    },
+    {
+        "quantity": "50",
+        "description": "BRAKE MASTER REPAIR KIT RUSI125",
+            "SRP": 44.00,
+            "discounted_price": 22.00,
+            "discount": "50%",
+            "total": 1100.00
+        
+    },
+    {
+        "quantity": "50",
+        "description": "BRAKE MASTER REPAIR KIT XRM REAR",
+            "SRP": 40.00,
+            "discounted_price": 20.00,
+            "discount": "50%",
+            "total": 2000.00
+        
+    },
+    {
+        "quantity": "50",
+        "description": "BRAKE MASTER REPAIR KIT RUSI150",
+            "SRP": 40.00,
+            "discounted_price": 20.00,
+            "discount": "50%",
+            "total": 1000.00
+        
+    },
+    {
+        "quantity": "50",
+        "description": "BRAKE MASTER REPAIR KIT SHOGUN",
+            "SRP": 40.00,
+            "discounted_price": 20.00,
+            "discount": "50%",
+            "total": 1000.00
+        
+    },
+    {
+        "quantity": "50",
+        "description": "BRAKE MASTER REPAIR KIT FURY REAR",
+            "SRP": 40.00,
+            "discounted_price": 20.00,
+            "discount": "50%",
+            "total": 1000.00
+        
+    },
+    {
+        "quantity": "50",
+        "description": "BRAKE MASTER REPAIR KIT SONIC",
+            "SRP": 40.00,
+            "discounted_price": 20.00,
+            "discount": "50%",
+            "total": 1000.00
+        
+    },
+    {
+        "quantity": "50",
+        "description": "BRAKE MASTER REPAIR KIT CRYPTON",
+            "SRP": 40.00,
+            "discounted_price": 20.00,
+            "discount": "50%",
+            "total": 1000.00
+        
+    },
+    {
+        "quantity": "50",
+        "description": "BRAKE MASTER REPAIR KIT DASH110",
+            "SRP": 40.00,
+            "discounted_price": 20.00,
+            "discount": "50%",
+            "total": 1000.00
+        
+    },
+    {
+        "quantity": "50",
+        "description": "BRAKE MASTER REPAIR KIT FZ16",
+            "SRP": 51.00,
+            "discounted_price": 25.50,
+            "discount": "50%",
+            "total": 1275.00
+        
+    },
+    {
+        "quantity": "50",
+        "description": "BRAKE MASTER REPAIR KIT VEGA FORCE",
+            "SRP": 40.00,
+            "discounted_price": 20.00,
+            "discount": "50%",
+            "total": 1000.00
+        
+    },
+    {
+        "quantity": "50",
+        "description": "BRAKE MASTER REPAIR KIT SMASH",
+            "SRP": 40.00,
+            "discounted_price": 20.00,
+            "discount": "50%",
+            "total": 1000.00
+        
+    },
+    {
+        "quantity": "50",
+        "description": "BRAKE MASTER REPAIR KIT XRM TRINITY-F",
+            "SRP": 40.00,
+            "discounted_price": 20.00,
+            "discount": "50%",
+            "total": 1000.00
+        
+    },
+    {
+        "quantity": "50",
+        "description": "BRAKE MASTER REPAIR KIT R150-REAR",
+            "SRP": 40.00,
+            "discounted_price": 20.00,
+            "discount": "50%",
+            "total": 2000.00
+        
+    },
+    {
+        "quantity": "50",
+        "description": "BRAKE MASTER REPAIR KIT ROUSER135",
+            "SRP": 51.00,
+            "discounted_price": 25.50,
+            "discount": "50%",
+            "total": 1275.00
+        
+    },
+    {
+        "quantity": "50",
+        "description": "BRAKE MASTER REPAIR KIT SKYDRIVE",
+            "SRP": 40.00,
+            "discounted_price": 20.00,
+            "discount": "50%",
+            "total": 1000.00
+        
+    }
+]

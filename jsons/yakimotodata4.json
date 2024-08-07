@@ -1,0 +1,67 @@
+[
+    {
+        "quantity": "100",
+        "description": "CHAIN ADJUSTER WAVE DASH/W110 SET",
+        "SRP": 41.00,
+        "discounted_price": 20.50,
+        "Discount": "50%",
+        "Total": 2050.00
+    },
+    {
+        "quantity": "100",
+        "description": "CHAIN ADJUSTER CB100/CB110 SET",
+        "SRP": 116.00,
+        "discounted_price": 58.00,
+        "Discount": "50%",
+        "Total": 5800.00
+    },
+    {
+        "quantity": "100",
+        "description": "CHAIN ADJUSTER RUSI125/TMX",
+        "SRP": 41.00,
+        "discounted_price": 20.50,
+        "Discount": "50%",
+        "Total": 2050.00
+    },
+    {
+        "quantity": "100",
+        "description": "CHAIN ADJUSTER HD3 SET",
+        "SRP": 41.00,
+        "discounted_price": 20.50,
+        "Discount": "50%",
+        "Total": 2050.00
+    },
+    {
+        "quantity": "200",
+        "description": "REAR HUB BUSHING UNIVERSAL SET WHITE",
+        "SRP": 70.00,
+        "discounted_price": 35.00,
+        "Discount": "50%",
+        "Total": 7000.00
+    },
+    {
+        "quantity": "300",
+        "description": "SWITCH FUEL PUMP",
+        "SRP": 582.00,
+        "discounted_price": 291.00,
+        "Discount": "50%",
+        "Total": 87300.00
+    },
+    {
+        "quantity":"100",
+        "description": "FUEL TANK CAP TMX BLACK-M",
+        "SRP": 139.00,
+        "discounted_price": 69.50,
+        "Discount": "50%",
+        "Total": 13900.00
+    },
+    {
+        "quantity": "100",
+        "description": "FUEL TANK CAP TMX SILVER-M",
+        "SRP": 139.00,
+        "discounted_price": 139.00,
+        "Discount":  "50%",
+        "Total": 13900.00
+    }
+    
+]
